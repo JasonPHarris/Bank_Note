@@ -4,7 +4,6 @@ Created on Sat Feb 19 14:53:14 2022
 
 @author: Jason Harris
 Individual Project 5
-CS379 Machine Learning Due 02/27/2022
 This code is using decision trees and Gini to create a Classification And 
 Regresion Tree algorithm, and indentifying test data used in the algorithm to 
 illustrate the output of the prediction. I have used the following websites 
